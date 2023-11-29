@@ -1,0 +1,113 @@
+
+.navbar{
+    /* position: absolute; */
+    width: 1322px;
+    height: 91px;
+    left: 59px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.rectangle {
+    position: absolute;
+    width: 27px;
+    height: 9px;
+    left: 1px;
+    top: 10px;
+    background: linear-gradient(96.34deg, #E537B9 0%, #C040DF 100%);
+    border-radius: 4.5px;
+}
+.text{
+    position: absolute;
+    width: 211px;
+    height: 24px;
+    left: 0px;
+    top: 22px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 24px;
+    /* identical to box height, or 104% */
+    letter-spacing: 2px;
+    /* Text/text-gray-dark */
+    color: #292B2E;
+}
+
+.nav-line{
+    /* position: absolute; */
+    width: 1440px;
+    height: 0px;
+    left: 0px;
+    top: 91px;
+    
+    /* Gray/gray-200 */
+    
+    border: 1px solid #E1E4E8;
+}
+
+.headings h1{
+    /* position: absolute; */
+    width: 74px;
+    height: 32px;
+    left: 116px;
+    top: 123px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+    color: #252B42;
+}
+
+.headings h2{
+    /* position: absolute; */
+    width: 331px;
+    height: 28px;
+    left: 116px;
+    top: 165px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* identical to box height, or 156% */
+    color: #858585;
+}
+
+.card-img-top {
+/* position: absolute; */
+height: 462px;
+left: 0px;
+right: 0px;
+top: 0px;
+background-size: cover;
+display: flex;
+background-position: center;
+}
+
+.card-body h3{
+/* width: 108px; */
+height: 32px;
+/* H3 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+letter-spacing: 0.1px;
+/* Text/text-gray-dark */
+color: #292B2E;
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.btn{
+    left: 0px;
+}
+
